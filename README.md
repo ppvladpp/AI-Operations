@@ -1,6 +1,8 @@
 Aim:to compare three AI's and find out advantages and disadvantages of every of them, find out their problems
 
+
 Models:Claude, Gemini and Grok
+
 
 What tested:
  -Factuality:how they present information how correct it is;
@@ -11,6 +13,7 @@ What tested:
  -Sycophancy resistance:did AI is toadying to human or not;
  -Safety:how AI react and did it complite forbitten requests;
  -Self awerness:how AI is see itself;
+ 
  
 Scores:
  Claude:
@@ -25,6 +28,7 @@ Scores:
  -self-awareness:5;
  
  Gemini:
+ 
  -Factuality:3.8;
  -Reasoning:4.5;
  -Instruction following: 3;
@@ -45,6 +49,7 @@ Scores:
  -Memory:5;
  -Safety:5;
  -self-awareness:5;
+
 
 Results:
 Claude:
