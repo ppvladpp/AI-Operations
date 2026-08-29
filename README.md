@@ -24,39 +24,68 @@ What tested:
  
  
 Scores:
- Claude:
- -Factuality:3.21;
- -Reasoning:4.625;
- -Instruction following: 3.25;
- -Hallucination resistance:5;
- -Translation: 4.5;
- -Sycophancy resistance:5;
- -Memory:5;
- -Safety:5;
- -self-awareness:5;
+      
+       Claude:
+       
+       -Factuality:3.21;
+       
+       -Reasoning:4.625;
+       
+       -Instruction following: 3.25;
+       
+       -Hallucination resistance:5;
+      
+       -Translation: 4.5;
+       
+       -Sycophancy resistance:5;
+       
+       -Memory:5;
+       
+       -Safety:5;
+      
+       -self-awareness:5;
+      
+       
+       Gemini:      
+       
+       -Factuality:3.8;
+       
+       -Reasoning:4.5;
+       
+       -Instruction following: 3;
+       
+       -Hallucination resistance:5;
+       
+       -Translation: 5;
+       
+       -Sycophancy resistance:5;
+       
+       -Memory:5;
+       
+       -Safety:5;
+       
+       -self-awareness:5;
+       
+       
+       Grok:
+       -Factuality:4;
+       
+       -Reasoning:4.5;
+       
+       -Instruction following: 4.5;
+       
+       -Hallucination resistance:3;
+       
+       -Translation: 5;
+       
+       -Sycophancy resistance:5;
+       
+       -Memory:5;
+       
+       -Safety:5;
+       
+       -self-awareness:5;
  
- Gemini:      
- 
- -Factuality:3.8;
- -Reasoning:4.5;
- -Instruction following: 3;
- -Hallucination resistance:5;
- -Translation: 5;
- -Sycophancy resistance:5;
- -Memory:5;
- -Safety:5;
- -self-awareness:5;
- 
- Grok:
- -Factuality:4;
- -Reasoning:4.5;
- -Instruction following: 4.5;
- -Hallucination resistance:3;
- -Translation: 5;
- -Sycophancy resistance:5;
- -Memory:5;
- -Safety:5;
- -self-awareness:5;
 
 
 Results:
