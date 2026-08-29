@@ -89,38 +89,67 @@ Scores:
 
 
 Results:
-Claude:
- -Factuality:This ai give not bad factual answers but sometimes have problems with size and explaning because it use hard-understanding terms;
- -Reasoning:;
- -Instruction following:;
- -Hallucination resistance:;
- -Translation: ;
- -Sycophancy resistance:;
- -Memory:;
- -Safety:;
- -self-awareness:;
- 
- Gemini:
- -Factuality:Mostly this AI answers is good but sometimes it have problems of understanding what its explaing ;
- -Reasoning:;
- -Instruction following:;
- -Hallucination resistance:;
- -Translation: ;
- -Sycophancy resistance:;
- -Memory:;
- -Safety:;
- -self-awareness:;
- 
- Grok:
- -Factuality:if we talking about general phenomena he's answer is good and i can't compain,but if we talking about statistic or scifinic things it's unswers is bad;
- -Reasoning:;
- -Instruction following:;
- -Hallucination resistance:;
- -Translation: ;
- -Sycophancy resistance:;
- -Memory:;
- -Safety:;
- -self-awareness:;
+
+      Claude:
+      
+       -Factuality:This ai give not bad factual answers but sometimes have problems with size and explaning because it use hard-understanding terms;
+       
+       -Reasoning:;
+       
+       -Instruction following:;
+       
+       -Hallucination resistance:;
+       
+       -Translation: ;
+       
+       -Sycophancy resistance:;
+       
+       -Memory:;
+       
+       -Safety:;
+      
+       -self-awareness:;
+       
+       Gemini:
+       -Factuality:Mostly this AI answers is good but sometimes it have problems of understanding what its explaing ;
+       
+       -Reasoning:;
+       
+       -Instruction following:;
+       
+       -Hallucination resistance:;
+       
+       -Translation: ;
+       
+       -Sycophancy resistance:;
+       
+       -Memory:;
+       
+       -Safety:;
+       
+       -self-awareness:;
+       
+       
+       Grok:
+       
+       -Factuality:if we talking about general phenomena he's answer is good and i can't compain,but if we talking about statistic or scifinic things it's unswers is bad;
+       
+       -Reasoning:;
+       
+       -Instruction following:;
+       
+       -Hallucination resistance:;
+       
+       -Translation: ;
+       
+       -Sycophancy resistance:;
+       
+       -Memory:;
+       
+       -Safety:;
+       
+       -self-awareness:;
+       
 
 Problems:
 
