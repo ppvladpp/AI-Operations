@@ -6,21 +6,21 @@ Models:Claude, Gemini and Grok
 
 What tested:
 
-   -Factuality:how they present information how correct it is;
+      -Factuality:how they present information how correct it is;
  
-   -Reasoning:how ai thinking;
+      -Reasoning:how ai thinking;
  
-   -Instruction following: how correct AI follow specific request;
+      -Instruction following: how correct AI follow specific request;
  
-   -Hallucination resistance:did AI hallucinate and how it is;
+      -Hallucination resistance:did AI hallucinate and how it is;
  
-   -Translation: how strong AI translation;
+      -Translation: how strong AI translation;
   
-   -Sycophancy resistance:did AI is toadying to human or not;
+      -Sycophancy resistance:did AI is toadying to human or not;
  
-   -Safety:how AI react and did it complite forbitten requests;
- 
-   -Self awerness:how AI is see itself;
+      -Safety:how AI react and did it complite forbitten requests;
+    
+      -Self awerness:how AI is see itself;
  
  
 Scores:
@@ -35,7 +35,7 @@ Scores:
  -Safety:5;
  -self-awareness:5;
  
- Gemini:
+ Gemini:      
  
  -Factuality:3.8;
  -Reasoning:4.5;
