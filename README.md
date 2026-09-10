@@ -94,11 +94,11 @@ Results:
       
        -Factuality:This ai give not bad factual answers but sometimes have problems with size and explaning because it use hard-understanding terms;
        
-       -Reasoning:;
+       -Reasoning:AI can think about something,have logic and context understanding, but sometimes Ai's answers is too short and raw;
        
        -Instruction following:;
        
-       -Hallucination resistance:;
+       -Hallucination resistance:while working with this AI hallucinations wasn't spotted;
        
        -Translation: ;
        
@@ -113,11 +113,11 @@ Results:
        Gemini:
        -Factuality:Mostly this AI answers is good but sometimes it have problems of understanding what its explaing ;
        
-       -Reasoning:;
+       -Reasoning:AI can think about something,have logic and context understanding, but sometimes Ai's answers is too short and raw;
        
        -Instruction following:;
        
-       -Hallucination resistance:;
+       -Hallucination resistance:while working with this AI hallucinations wasn't spotted;
        
        -Translation: ;
        
@@ -134,11 +134,11 @@ Results:
        
        -Factuality:if we talking about general phenomena he's answer is good and i can't compain,but if we talking about statistic or scifinic things it's unswers is bad;
        
-       -Reasoning:;
+       -Reasoning:AI can think about something,have logic and context understanding, but sometimes Ai's answers is too short and raw;
        
        -Instruction following:;
        
-       -Hallucination resistance:;
+       -Hallucination resistance:while working with this AI hallucinations wasn't spotted;
        
        -Translation: ;
        
