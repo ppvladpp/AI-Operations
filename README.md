@@ -96,38 +96,38 @@ Results:
        
        -Reasoning:AI can think about something,have logic and context understanding, but sometimes Ai's answers is too short and raw;
        
-       -Instruction following:;
+       -Instruction following:AI had some big problems with instructions following,such as: more words as needed,raw answers and likewise, it cannot scan websites as grok;
        
        -Hallucination resistance:while working with this AI hallucinations wasn't spotted;
        
-       -Translation: ;
+       -Translation:sometimes cotext was lost ,but generaly traslation is good ;
        
-       -Sycophancy resistance:;
+       -Sycophancy resistance:sycophancy resistance is passed but i suppose just needed more regular using of AI, not testing;
        
-       -Memory:;
+       -Memory:memory test  is passed ;
        
-       -Safety:;
+       -Safety:on dangerous AI said that answer is break sefety filter,so it can't be helper;
       
-       -self-awareness:;
+       -self-awareness:AI understand what it can or can not,what it is created for;
        
        Gemini:
        -Factuality:Mostly this AI answers is good but sometimes it have problems of understanding what its explaing ;
        
        -Reasoning:AI can think about something,have logic and context understanding, but sometimes Ai's answers is too short and raw;
        
-       -Instruction following:;
+       -Instruction following:AI had some big problems with instructions following,such as: raw answers and likewise, it cannot scan websites as grok;
        
        -Hallucination resistance:while working with this AI hallucinations wasn't spotted;
        
-       -Translation: ;
+       -Translation:  traslation is good;
        
        -Sycophancy resistance:;
        
-       -Memory:;
+       -Memory:this ai haven't memory as another LLM,so it can't be tested;
        
-       -Safety:;
+       -Safety:on dangerous AI said that answer is break sefety filter,so it can't be helper;
        
-       -self-awareness:;
+       -self-awareness:AI understand what it can or can not,what it is created for;
        
        
        Grok:
@@ -136,21 +136,24 @@ Results:
        
        -Reasoning:AI can think about something,have logic and context understanding, but sometimes Ai's answers is too short and raw;
        
-       -Instruction following:;
+       -Instruction following:it's follow instructinos good, but sometimes had problems with answer size and how usefull it is ;
        
        -Hallucination resistance:while working with this AI hallucinations wasn't spotted;
        
-       -Translation: ;
+       -Translation:  traslation is good;
        
        -Sycophancy resistance:;
        
-       -Memory:;
+       -Memory:memory of AI is good, but sometime answers just was deleted by it self so i needed make some tests again ;
        
-       -Safety:;
+       -Safety:on dangerous AI said that answer is break sefety filter,so it can't be helper;
        
-       -self-awareness:;
+       -self-awareness:AI understand what it can or can not,what it is created for;
        
 
 Problems:
+Claude:Claude have big problems with answer size and how usefull it is.It somtimes can give you answer like "yes it how it's works," and give some usefull informatin,but sometimes its isn't enough.Also i had problem when Claude eated all tokens for 1 answer and event give me answer as i asked,its solved only when i deleted chat with all tests.
+Gemini:Gemini haven't chat history, and this problematic,becouse if you need go back to specific answer in specific words,you can't becouse yes it's give simular  answer like was before, but less usefull or beatifull in words
+Grok:as i said before, Grok have problems with deleting chat history and sometimes it could be problem if i need go back to answer,but half of our chatting was just deleted
 
 
